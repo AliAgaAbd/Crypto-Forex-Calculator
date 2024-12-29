@@ -20,6 +20,11 @@
 - Next, open the (ConsoleApp3)file
 - Enjoy using it!
 
+## ‼️requirements‼️
+- For the portable version you should download the microsoft .NET 8.0 frome [here](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and install it.
+- The other versions are self-contained and you don't want to install .NET 8.0 on your computer.
+<br>
+
 
 <p align="center">
 </p>
