@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## ⭐ This is the first realese
+## ⭐ This is the first realese (V1.0.0)
 
 - PIP average
 - LOT size and TP and loss in the futures mode
