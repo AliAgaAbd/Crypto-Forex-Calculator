@@ -41,7 +41,7 @@
 
 ## 📜 Notes
 - Please report buges in [issues](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/issues/new?assignees=AliAgaAbd&labels=&projects=&template=bug_report.md&title=) section 🙏
-- If you need a new feature, Please request it [here](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/issues/new?assignees=AliAgaAbd&labels=&projects=&template=feature_request.md&title=Need+a+new+feature%3F+Jast+tell+it+to+us)
+- If you need a new feature, Please request it [here](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/issues/new?assignees=AliAgaAbd&labels=&projects=&template=feature_request.md)
 - **This program is created and designed by Ali.aga**
 - Please let us know if you have any suggestions or criticisms in [discussions](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/discussions/1) section, i'll read all of them.
 - Thanks for choosing us!
