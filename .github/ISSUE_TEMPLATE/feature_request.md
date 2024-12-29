@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: Need a new feature? Jast tell it to us
+title: 
 labels: ''
 assignees: AliAgaAbd
 
