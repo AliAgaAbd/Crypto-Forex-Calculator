@@ -5,7 +5,7 @@
 </p>
 <br>
 
-## ⭐ This is the first realese (V1.0.0)
+## ⭐ This is the 1st realese (V1.0.0)
 
 - PIP average
 - LOT size, risk and loss in SL point in futures
