@@ -21,9 +21,9 @@
 
 ## **OS**
 - You can use this program on:
-- Windows x64,86,arm64
-- OSX x64,arm64
-- Linux x64,arm64,arm
+- Windows **x64**,**x86**,**arm64**
+- OSX **x64**,**arm64**
+- Linux **x64**,**arm64**,**arm**
 <br>
 
 
