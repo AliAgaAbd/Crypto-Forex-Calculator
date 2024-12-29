@@ -43,5 +43,5 @@
 - **این برنامه توسط Ali.aga طراحی و ساخته شده**
 - لطفا پیشنهادات و انتقادات خود را در قسمت [discussions](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/discussions/1) بنویسید، من همه آنها را خواهم خواند
 - از اینکه ما را انتخاب کردید متشکریم!
+- 🌏 [Readme in English](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/README.md)
 <br>
-🌏 [Readme in English](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/README.md)
