@@ -25,7 +25,7 @@
 
 
 ## ‼️پیش نیاز ها‼️
-- برای نسخه پورتابل باید Microsoft .NET 8.0 را از [اینجا](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) دانلود و نصب کنید تا بتوانید آن را استفاده کنید
+- برای نسخه پرتابل باید Microsoft .NET 8.0 را از [اینجا](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) دانلود و نصب کنید تا بتوانید آن را استفاده کنید
 - برای دیگر نسخه ها نیازی به داشتن Microsoft .NET8.0 نیست
 <br>
 
