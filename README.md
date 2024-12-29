@@ -36,6 +36,6 @@
 ## 📜 Notes
 - Please report buges in issues section 🙏
 - **This program is created and designed by Ali.aga**
-- Please let us know if you have any suggestions or criticisms in discussions section, i'll read all of them.
+- Please let us know if you have any suggestions or criticisms in [discussions](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/discussions/1) section, i'll read all of them.
 - Thanks for choosing us!
 <br>
