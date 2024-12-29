@@ -10,7 +10,6 @@
 - Benefit or loss in both spot and futures mode
 - Changing theme
 - Fibonacci retracement
-<br>
 
 ## 📥 How to use this program?
 - First, Download the latest version from realeses section according to your OS and proccessor
