@@ -30,6 +30,6 @@
 ## 📜 Notes
 - Please report buges in issues section 🙏
 - **This program is created and designed by Ali.aga**
-- Please let us know if you have any suggestions or criticisms in issues section, i'll read all of them.
+- Please let us know if you have any suggestions or criticisms in discussions section, i'll read all of them.
 - Thanks for choosing us!
 <br>
