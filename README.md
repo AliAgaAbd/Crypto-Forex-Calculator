@@ -10,6 +10,7 @@
 - Benefit or loss in both spot and futures mode
 - Changing theme
 - Fibonacci retracement
+- **You can use this program in Windows,Linux and OSX**
 <br>
 
 <br>
