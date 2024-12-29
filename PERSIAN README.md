@@ -1,5 +1,5 @@
 <h1 align="center">ماشین حساب کریپتو و فارکس</h1>
-### 🌏 [Readme in English](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/README.md)
+### 🌏 [Readme in English](README.md)
 <p align="center">
 </p>
 <br>
