@@ -6,7 +6,7 @@
 ## ⭐ This is the first realese (V1.0.0)
 
 - PIP average
-- LOT size and TP and loss in the futures mode
+- LOT size, risk and loss in SL point in futures
 - Benefit or loss in both spot and futures mode
 - Changing theme
 - Fibonacci retracement
