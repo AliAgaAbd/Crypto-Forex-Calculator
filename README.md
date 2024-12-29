@@ -1,6 +1,6 @@
 <h1 align="center">Crypto and Forex calculator</h1>
 
-### 🌏 فایل راهنمای [فارسی](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/PERSIAN%20README.md)
+### 🌏 [فارسی](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/PERSIAN%20README.md)
 <p align="center">
 </p>
 <br>
