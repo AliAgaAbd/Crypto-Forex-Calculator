@@ -10,7 +10,6 @@
 - Benefit or loss in both spot and futures mode
 - Changing theme
 - Fibonacci retracement
-- **You can use this program in Windows,Linux and OSX**
 <br>
 
 <br>
@@ -19,6 +18,14 @@
 - First, Download the latest version from realeses section according to your OS and proccessor
 - Next, open the (ConsoleApp3)file
 - Enjoy using it!
+
+## **OS**
+- You can use thid program on:
+- Windows x64,86,arm64
+- OSX x64,arm64
+- Linux x64,arm64,arm
+<br>
+
 
 ## ‼️requirements‼️
 - For the portable version you should download the microsoft .NET 8.0 frome [here](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and install it.
