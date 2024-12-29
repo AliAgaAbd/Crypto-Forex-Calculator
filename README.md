@@ -11,7 +11,6 @@
 - Changing theme
 - Fibonacci retracement
 <br>
-
 <br>
 
 ## 📥 How to use this program?
