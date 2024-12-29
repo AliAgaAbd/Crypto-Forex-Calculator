@@ -40,7 +40,7 @@
 
 
 ## 📜 Notes
-- Please report buges in [issues](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/issues) section 🙏
+- Please report buges in [issues](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/issues/new?assignees=AliAgaAbd&labels=&projects=&template=bug_report.md&title=) section 🙏
 - **This program is created and designed by Ali.aga**
 - Please let us know if you have any suggestions or criticisms in [discussions](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/discussions/1) section, i'll read all of them.
 - Thanks for choosing us!
