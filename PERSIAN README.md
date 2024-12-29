@@ -1,5 +1,4 @@
 <h1 align="center">ماشین حساب کریپتو و فارکس</h1>
-🌏 [Readme in English](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/README.md)
 <p align="center">
 </p>
 <br>
@@ -45,3 +44,4 @@
 - لطفا پیشنهادات و انتقادات خود را در قسمت [discussions](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/discussions/1) بنویسید، من همه آنها را خواهم خواند
 - از اینکه ما را انتخاب کردید متشکریم!
 <br>
+🌏 [Readme in English](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/README.md)
