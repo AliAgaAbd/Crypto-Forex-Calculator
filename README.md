@@ -20,7 +20,7 @@
 - Enjoy using it!
 
 ## **OS**
-- You can use thid program on:
+- You can use this program on:
 - Windows x64,86,arm64
 - OSX x64,arm64
 - Linux x64,arm64,arm
