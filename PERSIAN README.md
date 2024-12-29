@@ -1,6 +1,7 @@
 <h1 align="center">ماشین حساب کریپتو و فارکس
-<p align="center">[Readme in English](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/README.md)
+<p align="center">
 </p>
+[Readme in English](https://github.com/AliAgaAbd/Crypto-Forex-Calculator/blob/main/README.md)
 <br>
 
 ## ⭐ این اولین نسخه است (V1.0.0)
