@@ -1,6 +1,5 @@
 <h1 align="center">Crypto and Forex Calculator
 <p align="center">
-  <img src="images/2.png">
 </p>
 <br>
 
@@ -22,11 +21,9 @@
 
 
 <p align="center">
-  <img src="images/1.png">
 </p>
 
 <p align="center">
-  <img src="images/3.png">
 </p>
 
 
