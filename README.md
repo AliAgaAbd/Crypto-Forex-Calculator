@@ -9,7 +9,7 @@
 
 - PIP average
 - LOT size, risk and loss in SL point in futures
-- Benefit or loss in both spot and futures mode
+- Benefit or loss in percent or USDT both spot and futures mode
 - Changing theme
 - Fibonacci retracement
 
