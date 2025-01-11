@@ -15,7 +15,7 @@
 
 ## 📥 How to use this program?
 - First, Download the latest version from realeses section according to your OS and proccessor
-- Next, open the (ConsoleApp3)file
+- Next, open the (ConsoleApp3) file
 - Enjoy using it!
 
 ## **OS**
